@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.gadget {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px;
+    width: 200px;
+    display: inline-block;
+    text-align: center;
+}
+.gadget img {
+    width: 100%;
+    height: auto;
+}
+.buy-button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 10px;
+}
